@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stormorigins
+- 👋 Hi, I’m pushparaj
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Advanced Proffesional Programming & Master Data Science
 - 💞️ I’m looking to collaborate on ...
